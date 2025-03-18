@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+langchain
+faiss-cpu
+sentence-transformers
+google-generativeai
+pypdf
